@@ -1,0 +1,7 @@
+echo ".env
+venv/
+__pycache__/
+*.pyc
+data/papers/
+data/embeddings/
+experiments/results.csv" > .gitignore
